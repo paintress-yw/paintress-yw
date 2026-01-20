@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**paintress-yw/paintress-yw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This bot is built by [YouWare](https://www.youware.com) using the YouWare Agent SDK.
 
-Here are some ideas to get you started:
+### Explore & build
+- **Agent SDK** (framework + examples): https://github.com/youware-labs/pai-agent-sdk/
+- **YouWare Labs** (more projects): https://github.com/youware-labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quickstart
+Try **Paintress CLI** via `uvx`:
+
+```bash
+uvx paintress-cli
+```
+- Paintress CLI docs/code: https://github.com/youware-labs/pai-agent-sdk/tree/main/paintress_cli
